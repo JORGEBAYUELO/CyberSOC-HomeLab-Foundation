@@ -1,5 +1,7 @@
 # CyberSOC HomeLab Foundation
 
+![HeroBanner](/images/GitHub-HomeLab-Foundation-Banner.jpg)
+
 > Building a production inspired cybersecurity home lab focused on blue team operations, detection engineering, threat hunting, incident response, and security automation.
 
 ---
