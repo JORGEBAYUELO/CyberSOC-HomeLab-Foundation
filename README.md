@@ -42,30 +42,7 @@ The primary goals of this project are:
 
 ## Lab Architecture
 
-> *(Architecture diagram will be added here.)*
-
-```
-                    VMware Workstation
-
-                    VMnet2
-                192.168.100.0/24
-
-     ┌──────────────────────────────────────┐
-     │                                      │
-     │  Cyber-DC01        192.168.100.10    │
-     │  Active Directory                    │
-     │  DNS Server                          │
-     │                                      │
-     └──────────────────────────────────────┘
-                    │
-      ┌─────────────┼─────────────┐
-      │             │             │
-      │             │             │
-┌──────────────┐ ┌──────────────┐ ┌──────────────┐
-│WIN11-CLIENT01│ │Wazuh Server01│ │Kali Attacker │
-│192.168.100.20│ │192.168.100.30│ │192.168.100.40│
-└──────────────┘ └──────────────┘ └──────────────┘
-```
+![Architecture Diagram](/images/Foundational-Architectural-Diagram.jpg)
 
 ---
 
