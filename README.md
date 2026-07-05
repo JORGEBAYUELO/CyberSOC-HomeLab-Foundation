@@ -105,11 +105,11 @@ Reverse Lookup Zone:
 
 - Cyber-DC01
 
-![Cyber-DC01](/images/)
+![Cyber-DC01](/images/Cyber-DC01.png)
 
 - WIN11-CLIENT01
 
-![WIN11-CLIENT01](/images/)
+![WIN11-CLIENT01](/images/WIN11-Client01.png)
 
 - Wazuh-Server01
 
@@ -117,7 +117,7 @@ Reverse Lookup Zone:
 
 - Kali-Attacker01
 
-![Kali-Attacker01](/images/)
+![Kali-Attacker01](/images/Kali-Attacker01.png)
 
 ---
 
