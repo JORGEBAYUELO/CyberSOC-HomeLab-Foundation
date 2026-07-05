@@ -51,7 +51,7 @@ The primary goals of this project are:
 | Category | Technology |
 |----------|------------|
 | Hypervisor | VMware Workstation Pro |
-| Directory Services | Windows Server 2025 |
+| Directory Services | Windows Server 2022 |
 | Identity | Active Directory |
 | DNS | Microsoft DNS |
 | SIEM | Wazuh |
