@@ -101,6 +101,46 @@ Reverse Lookup Zone:
 
 ---
 
+## VMware infrastructure
+
+- Cyber-DC01
+
+![Cyber-DC01](/images/)
+
+- WIN11-CLIENT01
+
+![WIN11-CLIENT01](/images/)
+
+- Wazuh-Server01
+
+![Wazuh-Server01](/images/)
+
+- Kali-Attacker01
+
+![Kali-Attacker01](/images/)
+
+---
+
+## Active Directory
+
+---
+
+## DNS
+
+---
+
+## Wazuh
+
+---
+
+## Networking
+
+---
+
+## Remote Administration
+
+---
+
 ## Features Completed
 
 - Active Directory deployment
