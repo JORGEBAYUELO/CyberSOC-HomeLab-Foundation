@@ -113,7 +113,7 @@ Reverse Lookup Zone:
 
 - Wazuh-Server01
 
-![Wazuh-Server01](/images/)
+![Wazuh-Server01](/images/Wazuh-Server01.png)
 
 - Kali-Attacker01
 
