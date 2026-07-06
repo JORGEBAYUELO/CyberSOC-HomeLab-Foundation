@@ -123,9 +123,43 @@ Reverse Lookup Zone:
 
 ## Active Directory
 
+- Server Manager
+
+![Server Manager](/images/Server-Manager.png)
+
+- AD DS
+
+![AD DS](/images/AD-DS.png)
+
+- DNS
+
+![DNS](/images/DNS.png)
+
+### Active Directory Users and Computers
+
+- Cybersoc.lab
+
+![cybersoc.lab](/images/cybersoc-lab.png)
+
+- Workstations
+
+![Workstations](/images/Workstations.png)
+
+- User Accounts
+
+![User Accounts](/images/User-Accounts.png)
+
 ---
 
 ## DNS
+
+- Forward Lookup Zones
+
+![Forward Lookup Zones](/images/Forward-Lookup-Zones.png)
+
+- Reverse Lookup Zones
+
+![Reverse Lookup Zones](/images/Reverse-Lookup-Zones.png)
 
 ---
 
