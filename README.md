@@ -2,7 +2,7 @@
 
 ![HeroBanner](/images/GitHub-HomeLab-Foundation-Banner.jpg)
 
-> Building a production inspired cybersecurity home lab focused on blue team operations, detection engineering, threat hunting, incident response, and security automation.
+> Building a production cybersecurity home lab focused on blue team operations, detection engineering, threat hunting, incident response, and security automation.
 
 ---
 
@@ -10,7 +10,7 @@
 
 The CyberSOC HomeLab Foundation repository documents the infrastructure used throughout my cybersecurity portfolio.
 
-Rather than deploying isolated tools, this project focuses on building a realistic enterprise inspired environment that can be expanded into multiple security disciplines including:
+Rather than deploying isolated tools, this project focuses on building a realistic enterprise environment that can be expanded into multiple security disciplines including:
 
 - Security Operations Center (SOC)
 - Detection Engineering
@@ -29,7 +29,7 @@ This repository serves as the baseline infrastructure for all future CyberSOC pr
 
 The primary goals of this project are:
 
-- Build an enterprise inspired Active Directory environment
+- Build an enterprise Active Directory environment
 - Deploy centralized DNS services
 - Configure a segmented virtual network
 - Deploy a SIEM platform using Wazuh
@@ -243,7 +243,6 @@ Upcoming projects built on top of this foundation include:
 
 - Detection Engineering
 - Sysmon Deployment
-- Windows Event Forwarding
 - Sigma Rules
 - MITRE ATT&CK Mapping
 - Threat Hunting
@@ -257,7 +256,7 @@ Upcoming projects built on top of this foundation include:
 
 ## Lessons Learned
 
-Throughout the build process I encountered and resolved several real-world infrastructure issues including:
+Throughout the build process I encountered and resolved several real world infrastructure issues including:
 
 - DNS forward lookup troubleshooting
 - Reverse lookup zone configuration
