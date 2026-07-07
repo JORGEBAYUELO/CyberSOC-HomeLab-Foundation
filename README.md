@@ -165,13 +165,41 @@ Reverse Lookup Zone:
 
 ## Wazuh
 
+- Wazuh Login Dashboard
+
+![Wazuh Login Dashboard](/images/Wazuh-Login-Dashboard.png)
+
+- Wazuh Overview Dashboard
+
+![Wazuh Overview Dashboard](/images/Wazuh-Overview-Dashboard.png)
+
 ---
 
 ## Networking
 
+- nslookup from Windows Client
+
+![nslookup from Windows Client](/images/Networking-nslookup-Windows-Client.png)
+
+- ping from Windows Client
+
+![ping from Windows Client](/images/Networking-ping-Windows-Client.png)
+
+- nslookup from Linux Client
+
+![nslookup from Linux Client](/images/Networking-nslookup-Linux-Client.png)
+
+- ping from Linux Client
+
+![ping from Linux Client](/images/Networking-ping-Linux-Client.png)
+
 ---
 
 ## Remote Administration
+
+- SSH
+
+![Remomte Administration SSH](/images/Remote-Administration-SSH.png)
 
 ---
 
